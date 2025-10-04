@@ -35,21 +35,6 @@ export default page
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // 'use client'
 // import { SkiperCard } from '@/components/ui/skiper-card'
 // import card1 from '/public/card1.jpeg'
