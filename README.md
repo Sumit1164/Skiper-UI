@@ -77,3 +77,13 @@ Big shoutout to the creators of Skiper-UI. It's an underrated gem in the UI libr
 
 Feel free to open an issue
  or reach out.
+
+
+
+---
+
+### ✅ What You Need to Do:
+1. **Updated video** in the `📹 Demo` section.
+2. Replace placeholders like:
+   - `Sumit1164`
+   - `Skiper-UI`
