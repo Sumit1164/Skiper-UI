@@ -64,3 +64,16 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 npm install
 npm run dev
+
+```
+---
+#### 🙌 Thanks to Skiper-UI
+
+Big shoutout to the creators of Skiper-UI. It's an underrated gem in the UI libraries world. If you're building a new project, give it a try — you'll love the simplicity and power it brings.
+
+---
+
+#### 📬 Feedback or Questions?
+
+Feel free to open an issue
+ or reach out.
