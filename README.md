@@ -86,3 +86,8 @@ Feel free to open an issue
 2. Replace placeholders like:
    - `Sumit1164`
    - `Skiper-UI`
+
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
