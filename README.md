@@ -8,8 +8,12 @@ Welcome to this project, where I’ve leveraged the power of [**Skiper-UI**](htt
 
 ## 📹 Demo
 
- 
-<!-- Replace with your actual video link or embed a YouTube video -->
+
+<video width="100%" controls>
+  <source src="/assets/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
@@ -60,3 +64,26 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 npm install
 npm run dev
+
+```
+---
+#### 🙌 Thanks to Skiper-UI
+
+Big shoutout to the creators of Skiper-UI. It's an underrated gem in the UI libraries world. If you're building a new project, give it a try — you'll love the simplicity and power it brings.
+
+---
+
+#### 📬 Feedback or Questions?
+
+Feel free to open an issue
+ or reach out.
+
+
+
+---
+
+### ✅ What You Need to Do:
+1. **Updated video** in the `📹 Demo` section.
+2. Replace placeholders like:
+   - `Sumit1164`
+   - `Skiper-UI`
