@@ -1,4 +1,4 @@
-# 🚀 My Project Using Skiper-UI
+# 🚀 Skiper-UI
 
 Welcome to this project, where I’ve leveraged the power of [**Skiper-UI**](https://www.npmjs.com/package/skiper-ui) to build a sleek and efficient user interface.
 
@@ -51,7 +51,6 @@ Some of the components I used extensively from Skiper-UI:
 - Notifications / Toasts
 - Cards & Layout components
 
-> And more…
 
 ---
 
@@ -82,7 +81,7 @@ Feel free to open an issue
 
 ---
 
-### ✅ What You Need to Do:
+#### ✅ You Need to Do:
 1. **Updated video** in the `📹 Demo` section.
 2. Replace placeholders like:
    - `Sumit1164`
