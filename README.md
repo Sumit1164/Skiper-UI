@@ -8,8 +8,12 @@ Welcome to this project, where I’ve leveraged the power of [**Skiper-UI**](htt
 
 ## 📹 Demo
 
- 
-<!-- Replace with your actual video link or embed a YouTube video -->
+
+<video width="100%" controls>
+  <source src="/assets/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
