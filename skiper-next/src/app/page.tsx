@@ -87,7 +87,7 @@ const page = () => {
       
       <SkiperCard
         title='Sumit tripathi'
-        description='Genius billionaire playboy philanthropist.'            //'World reachest person'
+        description= 'World reachest person'
         step1img1Class={cn(
                     "pointer-events-none w-[50%] border border-stone-100/10 transition-all duration-500 dark:border-stone-700/50",
                     "left-1/4 top-[57%] rounded-[24px] max-md:scale-[160%] max-md:rounded-[24px] md:left-[35px] md:top-[29%]",
